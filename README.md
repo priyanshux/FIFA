@@ -10,6 +10,7 @@ H2 Database<br /><br />
 #######<br />
 H2Database application properties:<br />
 spring.datasource.url=jdbc:h2:mem:test/db<br />
+<i>Note the in-memory database^</i><br />
 spring.jpa.hibernate.ddl-auto=create-drop<br /><br />
 
 #######<br />
