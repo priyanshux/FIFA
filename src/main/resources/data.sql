@@ -1,3 +1,4 @@
+
 INSERT INTO FifaRatingsApplication(name,rating) VALUES('Lionel Messi', 98.5);
 INSERT INTO FifaRatingsApplication(name,rating) VALUES('Cristiano Ronaldo', 97.5);
 INSERT INTO FifaRatingsApplication(name,rating) VALUES('Sadio Mane', 96.0);
